@@ -1,0 +1,19 @@
+{
+  "name": "utils-functions",
+  "version": "1.0.0",
+  "description": "some general util functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyqwe/utils-functions.git"
+  },
+  "author": "ManiaU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyqwe/utils-functions/issues"
+  },
+  "homepage": "https://github.com/ymyqwe/utils-functions#readme"
+}
