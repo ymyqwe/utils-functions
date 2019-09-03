@@ -1,0 +1,22 @@
+{
+  "name": "@maniauuuuu/util-functions",
+  "version": "1.0.0",
+  "description": "some general util functions",
+  "main": "debounce.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ymyqwe/utils-functions.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "ManiaU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyqwe/utils-functions/issues"
+  },
+  "homepage": "https://github.com/ymyqwe/utils-functions#readme"
+}
